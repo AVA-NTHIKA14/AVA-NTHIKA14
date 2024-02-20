@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AVA-NTHIKA14
 - 👀 I’m interested in .. Self learning 
-- 🌱 I’m currently learning ...c programming
+- 🌱 I’m currently learning ...c programming ,PYTHON
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
