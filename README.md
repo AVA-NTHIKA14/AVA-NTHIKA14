@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Avanthika</h1>
-🌱 Actively learning Full-Stack Web Development & UI/UX  
-👯 Open to collaborating on community-driven tech projects and innovative web apps  
-💬 Ask me about tech communities, web dev, and design  
-📫 Reach me at: avanthikaks1874@gmail.com
+ Learning Full-Stack Web Development & UI/UX  
+ 
+ Open to collaborating on community-driven tech projects and innovative web apps  
+ 
+ Ask me about tech communities, web dev, and design  
+ 
+ Reach me at: avanthikaks1874@gmail.com
+ 
 <h3 align="center">ECE Student 
 
 ---
