@@ -2,7 +2,7 @@
 <h3 align="center">ECE Student | Full-Stack Learner | UI/UX Enthusiast</h3>
 
 <p align="center">
-   Learning Full-Stack Web Development & UI/UX <br>
+  🌱 Learning Full-Stack Web Development & UI/UX <br>
   🤝 Open to collaborating on community-driven tech projects and innovative web apps <br>
   💬 Ask me about tech communities, web dev, and design <br>
   📫 Reach me at: <a href="mailto:avanthikaks1874@gmail.com">avanthikaks1874@gmail.com</a>
@@ -58,6 +58,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AVA-NTHIKA14&show_icons=true&theme=radical" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVA-NTHIKA14&layout=compact&theme=radical" />
+</p>
+
+---
+
+<h3 align="center">📈 Contribution Graph</h3>
+
+<p align="center">
+  <img src="https://github-contribution-graph.ez4o.com/?username=AVA-NTHIKA14&theme=radical" alt="Contribution Graph" />
 </p>
 
 ---
