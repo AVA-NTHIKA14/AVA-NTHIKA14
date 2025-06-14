@@ -1,78 +1,62 @@
-<h1 align="center">Hi 👋, I'm Avanthika</h1>
-<h3 align="center">ECE Student | Full-Stack Learner | UI/UX Enthusiast</h3>
+<div align="center" style="background: linear-gradient(135deg, #0f172a, #1e293b); color: #f1f5f9; border-radius: 16px; padding: 2rem;">
+  <img src="https://chat.openai.com/mnt/data/A_digital_gradient_animation_features_an_abstract,.png" width="300" alt="Glowing Blob Animation" />
+  <h1 style="font-size: 3em; color: #c084fc;">Hi, I'm Avanthika </h1>
+  <p style="font-size: 1.4em;">Frontend Developer • UI Designer • Community Builder • Self Learner</p>
+</div>
+
+---
+
+### 📊 GitHub Stats & Streak
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AVA-NTHIKA14&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AVA-NTHIKA14&theme=radical" height="150"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AVA-NTHIKA14&theme=radical" height="180" />
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+- 🎯 [Smart Food Waste App](https://github.com/AVA-NTHIKA14/smart-food-waste) – Track, analyze, and reduce food waste using IoT and data-driven insights.
+- 🌸 [Changayi - Emotional Support Diary](https://github.com/AVA-NTHIKA14/changayi-diary) – Emotion-aware journaling app for mental wellness and personal reflection.
+
+---
+
+### 🛠️ Tech & Design Stack
 
 <p align="center">
-  🌱 Learning Full-Stack Web Development & UI/UX <br>
-  🤝 Open to collaborating on community-driven tech projects and innovative web apps <br>
-  💬 Ask me about tech communities, web dev, and design <br>
-  📫 Reach me at: <a href="mailto:avanthikaks1874@gmail.com">avanthikaks1874@gmail.com</a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
 </p>
 
 ---
 
-<h3 align="center">💻 Tech Stack</h3>
+### 📜 Certification
 
-<p align="center">
-  <!-- Web & Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-
-  <!-- Backend / Tools -->
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GROQ-black?style=for-the-badge&logo=data&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
-
-  <!-- Design -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
+- ✅ [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/certification/AVANTHIKA_K_S/responsive-web-design)
 
 ---
 
-<h3 align="center">🌐 Connect with Me</h3>
+### 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/avanthika-k-s-1643a0281/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/AVA-NTHIKA14">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/avanthika-k-s-1643a0281/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:avanthikaks1874@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AVA-NTHIKA14&show_icons=true&theme=radical" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVA-NTHIKA14&layout=compact&theme=radical" />
+  <img src="https://komarev.com/ghpvc/?username=AVA-NTHIKA14&style=flat-square&color=c084fc"/>
 </p>
-
----
-
-<h3 align="center">📈 Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=AVA-NTHIKA14&theme=radical" alt="Contribution Graph" />
-</p>
-
----
-
-<h3 align="center">👣 Visitor Count</h3>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/avanthika14/count.svg" />
-</p>
-
