@@ -1,5 +1,5 @@
 <div align="center" style="background: linear-gradient(135deg, #0f172a, #1e293b); color: #f1f5f9; border-radius: 16px; padding: 2rem;">
-  <img src="https://chat.openai.com/mnt/data/A_digital_gradient_animation_features_an_abstract,.png" width="300" alt="Glowing Blob Animation" />
+ 
   <h1 style="font-size: 3em; color: #c084fc;">Hi, I'm Avanthika </h1>
   <p style="font-size: 1.4em;">Frontend Developer • UI Designer • Community Builder • Self Learner</p>
 </div>
