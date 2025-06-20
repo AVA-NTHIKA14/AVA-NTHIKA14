@@ -6,7 +6,7 @@
 
 ---
 
-### 📊 GitHub Stats & Streak
+<strong>GitHub Stats & Streak</strong>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AVA-NTHIKA14&show_icons=true&theme=radical" height="150" />
@@ -17,14 +17,13 @@
 
 ---
 
-### 🌟 Featured Projects
-
-- 🎯 [Smart Food Waste App](https://github.com/AVA-NTHIKA14/smart-food-waste) – Track, analyze, and reduce food waste using IoT and data-driven insights.
-- 🌸 [Changayi - Emotional Support Diary](https://github.com/AVA-NTHIKA14/changayi-diary) – Emotion-aware journaling app for mental wellness and personal reflection.
+<strong>Projects</strong>
+ [Smart Food Waste App](https://github.com/AVA-NTHIKA14/smart-food-waste) – Track, analyze, and reduce food waste using IoT and data-driven insights.
+ [Changayi - Emotional Support Diary](https://github.com/AVA-NTHIKA14/changayi-diary) – Emotion-aware journaling app for mental wellness and personal reflection.
 
 ---
 
-### 🛠️ Tech & Design Stack
+<strong> Tech & Design Stack</strong>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -43,7 +42,7 @@
 
 ---
 
-### 📬 Connect with Me
+<strong> Connect with Me</strong>
 
 <p align="center">
   <a href="https://github.com/AVA-NTHIKA14">
