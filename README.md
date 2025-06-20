@@ -18,8 +18,8 @@
 ---
 
 <strong>Projects</strong>
- [Smart Food Waste App](https://github.com/AVA-NTHIKA14/smart-food-waste) – Track, analyze, and reduce food waste using IoT and data-driven insights.
- [Changayi - Emotional Support Diary](https://github.com/AVA-NTHIKA14/changayi-diary) – Emotion-aware journaling app for mental wellness and personal reflection.
+ [Smart Food Waste App](https://github.com/AVA-NTHIKA14/smart-food-waste) – Track, analyze, and reduce food waste using IoT and data-driven insights.<br>
+ [Changayi - Emotional Support Journal ](https://github.com/AVA-NTHIKA14/changayi-diary) – Emotion-aware journaling app for mental wellness and personal reflection.
 
 ---
 
