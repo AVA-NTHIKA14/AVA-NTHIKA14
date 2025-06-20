@@ -10,9 +10,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AVA-NTHIKA14&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AVA-NTHIKA14&theme=radical" height="150"/>
+  
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AVA-NTHIKA14&theme=radical" height="180" />
+<br>
+
 </div>
 
 ---
@@ -23,16 +25,6 @@
 
 ---
 
-<strong> Tech & Design Stack</strong>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
-</p>
 
 ---
 
