@@ -1,7 +1,7 @@
 <div align="center" style="background: linear-gradient(135deg, #0f172a, #1e293b); color: #f1f5f9; border-radius: 16px; padding: 2rem;">
  
   <h1 style="font-size: 3em; color: #c084fc;">Hi, I'm Avanthika </h1>
-  <p style="font-size: 1.4em;">Frontend Developer • UI Designer • Community Builder • Self Learner</p>
+  <p style="font-size: 1.4em;"> • Self Learner • Frontend Developer • UI Designer • Community Builder </p>
 </div>
 
 ---
