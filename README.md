@@ -30,7 +30,7 @@ I am an Electronics and Communication Engineering student who enjoys exploring t
 
 My learning approach is driven by curiosity and experimentation. I strongly believe in the trial-and-error method: building projects, understanding failures, refining ideas, and improving continuously.
 
-My interests span across frontend development, interface design, embedded systems programming, and emerging AI tools.
+My interests span across frontend development, interface design, and emerging AI tools.
 
 ---
 
@@ -38,7 +38,6 @@ My interests span across frontend development, interface design, embedded system
 
 Frontend Engineering
 User Interface and Experience Design
-Embedded Systems Development
 AI-assisted Development Tools
 Technology Communities and Collaborative Learning
 
@@ -59,13 +58,6 @@ TypeScript
 
 Python
 C
-Embedded C
-
-### Embedded Systems
-
-Microcontroller Programming
-Arduino Development
-STM32 Development
 
 ### Design
 
@@ -83,11 +75,6 @@ Firebase
 VS Code
 Make
 
-### Embedded Development Tools
-
-Arduino IDE
-STM32CubeIDE
-Proteus
 
 ### Emerging Technologies
 
@@ -109,37 +96,12 @@ User interface design and prototyping using Figma.
 
 Frontend development using modern frameworks and tools including React, Tailwind CSS, and TypeScript.
 
-### Embedded Systems
-
-Microcontroller programming using Embedded C with development environments such as Arduino IDE and STM32CubeIDE.
 
 ### Emerging Technologies
 
 Exploring AI-assisted development tools, automation workflows, and AI agents.
 
 Most learning comes from building projects and refining ideas through experimentation.
-
----
-
-## Tech Ecosystem
-
-```mermaid
-graph TD
-
-A[Ideas] --> B[Design]
-B --> C[Frontend Development]
-C --> D[Deployment]
-
-C --> E[Embedded Systems]
-E --> F[Microcontrollers]
-
-C --> G[AI Tools]
-G --> H[Automation]
-
-B --> I[Figma Design]
-E --> J[Arduino / STM32]
-G --> K[AI Agents]
-```
 
 ---
 
