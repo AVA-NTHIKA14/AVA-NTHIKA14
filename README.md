@@ -21,13 +21,11 @@
 
 ---
 
-## Tech Stack
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,vite,python,c,arduino,firebase,git,github,figma,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,typescript,react,nextjs,tailwind,vite,arduino,firebase,git,github,figma,vscode,linux" />
 </p>
 
----
+-----
 
 ## Featured Projects
 
