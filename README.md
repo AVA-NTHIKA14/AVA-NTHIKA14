@@ -19,4 +19,4 @@ B.Tech Electronics & Communication Engineering Student
 
 ## Connect
 LinkedIn: linkedin.com/in/avanthika-ks
-Portfolio: <your-portfolio-link>
+
