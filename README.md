@@ -61,7 +61,11 @@
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/avanthika-ks">
 <img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://g.dev/avanthikaks" target="_blank">
+<img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Profile"/>
+
 </a>
+  
 </p>
 
 ---
