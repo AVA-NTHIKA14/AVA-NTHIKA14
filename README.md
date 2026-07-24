@@ -52,7 +52,7 @@
 </p>
 
 
-## Connect
+## You Can Find Me Here
 
 <p align="center">
 <a href="https://github.com/AVA-NTHIKA14">
@@ -61,12 +61,27 @@
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/avanthika-ks">
 <img src="https://skillicons.dev/icons?i=linkedin" />
-<a href="https://g.dev/avanthikaks" target="_blank">
-<img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Profile"/>
-
+  </a>
+&nbsp;&nbsp;
+<a href="https://app.mulearn.org/profile/avanthikaks@mulearn">
+  <img src="https://app.mulearn.org/favicon.ico" height="40" alt="μLearn"/>
 </a>
-  
-</p>
+&nbsp;&nbsp;
+<a href="https://tinkerhub.org/@avanthika">
+  <img src="https://tinkerhub.org/favicon.ico" height="40" alt="TinkerHub"/>
+</a>
+&nbsp;&nbsp;
+  <a href="https://fossunited.org/u/avanthika_k_s" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/fossunited/Branding/main/asset/FOSS%20United%20Logo/FOSS%20United%20Logo%20Black.png"
+    height="40"
+    alt="FOSS United" />
+    </a>
+&nbsp;&nbsp;
+    <a href="https://g.dev/avanthikaks" target="_blank">
+  <img src="https://www.gstatic.com/_/boq-gdp/_/r/tAMXOM5mAsI.svg" height="40" alt="Google Developer Program" />
+</a>
+ </p>
 
 ---
 
