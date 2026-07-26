@@ -86,7 +86,11 @@
 &nbsp;&nbsp;
     <a href="https://g.dev/avanthikaks" target="_blank">
   <img src="https://www.gstatic.com/_/boq-gdp/_/r/tAMXOM5mAsI.svg" height="40" alt="Google Developer Program" />
+      </a>
+    <a href="https://buymeacoffee.com/avanthika.k.s" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" height="40" alt="Buy Me a Coffee" />
 </a>
+
  </p>
 
 ---
