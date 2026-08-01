@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Avanthika</h1>
 
 <p align="center">
-  <b>B.Tech Electronics & Communication Engineering Student</b><br>
+  <b>Final Year B.Tech Electronics & Communication Engineering Student</b><br>
   Frontend Developer • UI/UX Designer • Open Source Contributor • System Designer
   
 </p>
