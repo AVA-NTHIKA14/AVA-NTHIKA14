@@ -21,9 +21,9 @@
 - Interested in IoT, Embedded Systems, Accessibility, and Product Design
 
 ---
-
+## Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,typescript,react,nextjs,tailwind,vite,arduino,firebase,git,github,figma,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,verilog,html,css,javascript,typescript,react,nextjs,tailwind,vite,arduino,firebase,git,github,figma,vscode,linux" />
 </p>
 
 -----
