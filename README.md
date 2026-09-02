@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Final Year B.Tech Electronics & Communication Engineering Student</b><br>
-  Frontend Developer • UI/UX Designer • Open Source Contributor • System Designer
+  Frontend Developer  • UI/UX Designer • Open Source Contributor • System Designer
   
 </p>
 
