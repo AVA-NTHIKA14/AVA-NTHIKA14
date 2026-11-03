@@ -39,6 +39,7 @@
 ---
 
 ## Contribution Streak
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/a7cf6739-3251-4563-a1b4-227201987d80" />
 
 <p align="center">
   <img
